@@ -22,7 +22,7 @@
 .badge {
   width: 56px; height: 56px; border-radius: 12px;
   display:flex; align-items:center; justify-content:center;
-  background: rgb(15 23 42); color:white; font-weight:700; font-size: 18px;
+  background: rgb(15 23 42); color:white; font-weight:700; font-size: 15px;
 }
 .view-btn {
   display:inline-block; font-size: 12px;

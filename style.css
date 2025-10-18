@@ -20,9 +20,9 @@
   box-shadow: 0 6px 14px rgba(0,0,0,.06);
 }
 .badge {
-  width: 56px; height: 56px; border-radius: 12px;
+  width: 56px; height: 56px; border-radius: 0.5rem;
   display:flex; align-items:center; justify-content:center;
-  background: rgb(15 23 42); color:white; font-weight:700; font-size: 15px;
+  background: rgb(15 25 45); color:white; font-weight:650; font-size: 15px;
 }
 .view-btn {
   display:inline-block; font-size: 12px;

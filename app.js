@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
   const emptyText = document.getElementById("emptyText");
   let allData = [];
 
-  fetch("data/agencies.json")
+  fetch("agencies.json")
     .then(res => res.json())
     .then(data => {
       allData = data;

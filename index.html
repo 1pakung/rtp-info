@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ข้อมูล ทำงานในรั้วตำรวจไทย</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body class="bg-slate-50 text-slate-800">
+<header 
+  class="text-white bg-cover bg-center bg-no-repeat"
+  style="background-image: url('images/header-bg.jpg');"
+>
+  <div class="backdrop-brightness-75">
+    <div class="max-w-7xl mx-auto px-4 py-6 flex items-center gap-4">
+      <div class="flex items-center justify-center">
+        <img src="images/logo.png" alt="ภาพ" class="w-12 h-12 object-contain">
+      </div>
+
+      <div>
+        <h1 class="text-xl md:text-2xl font-semibold">Information</h1>
+        <p class="text-white/80 text-sm">Working in Royal Thai Police (Roblox) - By 1Pakung</p>
+      </div>
+    </div>
+  </div>
+</header>
+
+  <main class="max-w-7xl mx-auto px-4 py-6 grid grid-cols-1 md:grid-cols-4 gap-6">
+    <aside class="md:col-span-1">
+      <div class="bg-white rounded-2xl shadow-sm border p-4 sticky top-6">
+        <h2 class="font-semibold text-slate-700 mb-4"></h2>
+        <nav class="flex flex-col space-y-2 text-slate-700">
+          <button class="menu-btn active px-3 py-2 rounded-lg text-left hover:bg-slate-100" data-target="newsSection">📃ข่าวสาร</button>
+          <button class="menu-btn px-3 py-2 rounded-lg text-left hover:bg-slate-100" data-target="lawSection">⚖️ กฎหมาย</button>
+          <button class="menu-btn px-3 py-2 rounded-lg text-left hover:bg-slate-100" data-target="agencySection">🗂️ หน่วยงาน</button>
+          <button class="menu-btn px-3 py-2 rounded-lg text-left hover:bg-slate-100" data-target="linksSection">🌐 ลิงก์อื่นๆ</button>
+        </nav>
+      </div>
+    </aside>
+
+    <section class="md:col-span-3">
+      <div id="newsSection" class="card section">
+        <h2 class="text-xl font-semibold mb-3">ข่าวสาร</h2>
+        <p>เว็บไซต์นี้ได้จัดทำเพื่อมาใช้จำลองในเกมโรบล็อกซ์ทำงานในรั้วตำรวจไทยเท่านั้น</p>
+      </div>
+
+<div id="lawSection" class="card section hidden">
+  <h2 class="text-xl font-semibold mb-4">กฎหมาย</h2>
+
+  <ul class="space-y-3 text-slate-700">
+    <li class="p-3 rounded-lg border hover:bg-slate-50 transition">
+      <p class="font-semibold">พระราชบัญญัติ ฉบับ พ.ศ.๒๕๖๗</p>
+      <a href="https://docs.google.com/document/d/1YTbDhevwW2plvSldzSFGKsmlvpj5Pcr1hZ9hK3UhYR8" 
+         target="_blank" 
+         class="text-indigo-600 hover:underline text-sm">เปิด</a>
+    </li>
+
+    <li class="p-3 rounded-lg border hover:bg-slate-50 transition">
+      <p class="font-semibold">พระราชบัญญัติ ว่าด้วย อำนาจหน้าที่ของข้าราชการ</p>
+      <a href="https://docs.google.com/document/d/1biX_tFzDAX7PsLJwE_KVHRSKgMNwJFhOjGtqPCaArvw" 
+         target="_blank" 
+         class="text-indigo-600 hover:underline text-sm">เปิด</a>
+    </li>
+
+    <li class="p-3 rounded-lg border hover:bg-slate-50 transition">
+      <p class="font-semibold">พระราชบัญญัติ ศาลรัฐธรรมนูญ</p>
+      <a href="https://docs.google.com/document/d/1RSAb694cQvnk0opIAjBBd3YUGoFHYI9aEwsU-_z0CAs" 
+         target="_blank" 
+         class="text-indigo-600 hover:underline text-sm">เปิด</a>
+    </li>
+  </ul>
+</div>
+
+      <div id="agencySection" class="section hidden">
+        <div class="flex flex-col gap-3 mb-6">
+          <input id="searchInput" class="input" placeholder="🔍 ค้นหาชื่อหน่วยงาน..." />
+        </div>
+        <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
+        <p id="emptyText" class="hidden text-center text-slate-500 mt-6">ไม่พบข้อมูลที่ค้นหา</p>
+      </div>
+
+      <div id="linksSection" class="card section hidden">
+        <h2 class="text-xl font-semibold mb-3">ลิงก์อื่นๆ</h2>
+        <ul class="list-disc ml-5 text-slate-600">
+          <li><a href="https://discord.gg/rtp-1pakung" class="text-indigo-600 hover:underline">Discord</a></li>
+          <li><a href="https://www.roblox.com/communities/32720464" class="text-indigo-600 hover:underline">Group</a></li>
+          <li><a href="https://www.roblox.com/games/13123153058" class="text-indigo-600 hover:underline">Game</a></li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="text-center text-xs text-slate-500 py-8">
+    © <span id="year"></span> เว็บไซต์ข้อมูล | ทำงานในรั้วตำรวจไทย
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

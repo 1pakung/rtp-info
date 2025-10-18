@@ -1,0 +1,38 @@
+.card {
+  @apply bg-white rounded-2xl shadow-sm border p-4;
+}
+.input {
+  @apply px-3 py-2 rounded-lg border outline-none focus:ring w-full;
+}
+.agency-card {
+  display: grid;
+  grid-template-columns: 56px 1fr;
+  gap: 12px;
+  align-items: center;
+  background: white;
+  border: 1px solid rgb(226 232 240);
+  border-radius: 16px;
+  padding: 12px;
+  transition: transform .08s ease, box-shadow .08s ease;
+}
+.agency-card:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 14px rgba(0,0,0,.06);
+}
+.badge {
+  width: 56px; height: 56px; border-radius: 12px;
+  display:flex; align-items:center; justify-content:center;
+  background: rgb(15 23 42); color:white; font-weight:700; font-size: 22px;
+}
+.view-btn {
+  display:inline-block; font-size: 12px;
+  padding: 6px 10px; border-radius: 10px; background: #1d4ed8; color:white;
+}
+.view-btn:hover { background: #1e40af; }
+
+/* ปุ่มเมนูเมื่อเลือก */
+.menu-btn.active {
+  background-color: #e2e8f0;
+  font-weight: 600;
+  border-radius: 8px;
+}

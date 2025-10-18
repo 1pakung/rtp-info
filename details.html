@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ข้อมูลหน่วยงาน</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-slate-50 text-slate-800">
+  <header class="bg-gradient-to-r from-slate-900 to-slate-700 text-white">
+    <div class="max-w-5xl mx-auto px-4 py-6 flex items-center gap-4">
+      <a href="index.html" class="px-3 py-2 rounded-lg bg-white/10 hover:bg-white/20 text-sm">← ย้อนกลับ</a>
+      <h1 class="text-xl md:text-2xl font-semibold">รายละเอียดหน่วยงาน</h1>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-6">
+    <div id="content" class="card bg-white p-6 rounded-2xl shadow-sm border"></div>
+  </main>
+
+  <script>
+    const params = new URLSearchParams(location.search);
+    const id = params.get('id');
+
+    fetch('data/agencies.json')
+      .then(res => res.json())
+      .then(data => {
+        const agency = data.find(x => x.id === id);
+        const c = document.getElementById('content');
+
+        if (!agency) {
+          c.innerHTML = `<p class="text-slate-500">ไม่พบหน่วยงานนี้</p>`;
+          return;
+        }
+
+        c.innerHTML = `
+          <div class="flex items-start gap-4 mb-6">
+            <div class="w-14 h-14 rounded-lg bg-slate-900 text-white flex items-center justify-center text-xl font-bold">${agency.badge}</div>
+            <div>
+              <h2 class="text-2xl font-semibold">${agency.name}</h2>
+            </div>
+          </div>
+
+          <div class="space-y-3 text-slate-700">
+            ${agency.groupLink ? `<p><span class="font-semibold">ลิงก์กลุ่ม :</span> <a href="${agency.groupLink}" target="_blank" class="text-indigo-600 hover:underline">${agency.groupLink}</a></p>` : ""}
+            ${agency.serverLink ? `<p><span class="font-semibold">ลิงก์เซิร์ฟเวอร์ :</span> <a href="${agency.serverLink}" target="_blank" class="text-indigo-600 hover:underline">${agency.serverLink}</a></p>` : ""}
+            ${agency.duty ? `<p><span class="font-semibold">หน้าที่ :</span> ${agency.duty}</p>` : ""}
+            ${agency.founded ? `<p><span class="font-semibold">วันก่อตั้ง :</span> ${agency.founded}</p>` : ""}
+          </div>
+        `;
+      });
+  </script>
+</body>
+</html>

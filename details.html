@@ -23,7 +23,7 @@
     const params = new URLSearchParams(location.search);
     const id = params.get('id');
 
-    fetch('data/agencies.json')
+    fetch('agencies.json')
       .then(res => res.json())
       .then(data => {
         const agency = data.find(x => x.id === id);

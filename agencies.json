@@ -6,7 +6,7 @@
     "groupLink": "https://rblx.social/34342838",
     "serverLink": "https://discord.gg/GzhNr7ndks",
     "duty": "ฝึกพลเรือนเข้ามาเป็นตำรวจใหม่",
-    "founded": "22/5/2567"
+    "founded": "๒๒ พฤษภาคม ๒๕๖๗"
   },
   {
     "id": "rpg",
@@ -15,7 +15,7 @@
     "groupLink": "https://rblx.social/34410609",
     "serverLink": "https://discord.gg/XJHJ8tFg6w",
     "duty": "ดูแลใกล้ชิดพระมหากษัตริย์ พระบรมราชินี พระราชวงศ์",
-    "founded": "6/6/2567"
+    "founded": "๖ มิถุนายน ๒๕๖๗"
   },
   {
     "id": "csd",
@@ -24,6 +24,24 @@
     "groupLink": "https://rblx.social/34420714",
     "serverLink": "https://discord.gg/jnJEz73dWu",
     "duty": "ปราบปรามอาชญากรรม",
-    "founded": "6/6/2567"
+    "founded": "๖ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "n261",
+    "badge": "นร.๒๖๑",
+    "name": "หน่วยปฏิบัติการพิเศษนเรศวร ๒๖๑",
+    "groupLink": "https://rblx.social/34430872",
+    "serverLink": "https://discord.gg/6caaBE2cgD",
+    "duty": "ปกป้องเอกราชและความมั่นคงของชาติ",
+    "founded": "๙ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "a26",
+    "badge": "อร.๒๖",
+    "name": "อรินทราช ๒๖",
+    "groupLink": "https://rblx.social/34437515",
+    "serverLink": "https://discord.gg/T7S9H8c6Gc",
+    "duty": "ปราบปรามการก่อการร้าย",
+    "founded": "๑๑ มิถุนายน ๒๕๖๗"
   }
 ]

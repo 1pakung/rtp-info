@@ -27,7 +27,7 @@
     "founded": "๖ มิถุนายน ๒๕๖๗"
   },
   {
-    "id": "n261",
+    "id": "ns261",
     "badge": "นร.๒๖๑",
     "name": "หน่วยปฏิบัติการพิเศษนเรศวร ๒๖๑",
     "groupLink": "https://rblx.social/34430872",
@@ -36,7 +36,7 @@
     "founded": "๙ มิถุนายน ๒๕๖๗"
   },
   {
-    "id": "a26",
+    "id": "art26",
     "badge": "อร.๒๖",
     "name": "อรินทราช ๒๖",
     "groupLink": "https://rblx.social/34437515",
@@ -106,5 +106,59 @@
     "serverLink": "https://discord.gg/Ub9F7nrTpA",
     "duty": "ปราบปรามอาชญากรรม",
     "founded": "๑๔ กรกฎาคม ๒๕๖๗"
+  },
+  {
+    "id": "han",
+    "badge": "หนุมาน",
+    "name": "หน่วยปฏิบัติการพิเศษหนุมาน",
+    "groupLink": "https://rblx.social/34619336",
+    "serverLink": "https://discord.gg/2rjN399CGv",
+    "duty": "ปราบปรามอาชญากรรม",
+    "founded": "๑๕ กรกฎาคม ๒๕๖๗"
+  },
+  {
+    "id": "tfd",
+    "badge": "บก.จร.",
+    "name": "กองบังคับการตำรวจจราจร",
+    "groupLink": "https://rblx.social/34656687",
+    "serverLink": "https://discord.gg/CMjtSF8JwN",
+    "duty": "ดูแลความปลอดภัยบนถนน",
+    "founded": "๒๑ กรกฎาคม ๒๕๖๗"
+  },
+  {
+    "id": "psod",
+    "badge": "บก.สปพ.",
+    "name": "กองบังคับการสายตรวจ",
+    "groupLink": "https://rblx.social/34656828",
+    "serverLink": "https://discord.gg/3UxfwBkAjw",
+    "duty": "ออกตรวจตามพื้นที่",
+    "founded": "๒๑ กรกฎาคม ๒๕๖๗"
+  },
+  {
+    "id": "nsb",
+    "badge": "บช.ปส.",
+    "name": "กองปราบปรามยาเสพติด",
+    "groupLink": "https://rblx.social/34680140",
+    "serverLink": "https://discord.gg/reS7kRZUVR",
+    "duty": "ปราบปรามการเสพติด เพื่อความสงบสุขของประชาชน",
+    "founded": "๒๖ กรกฎาคม ๒๕๖๗"
+  },
+  {
+    "id": "ccib",
+    "badge": "บช.สอท.",
+    "name": "กองบัญชาการตำรวจสืบสวนสอบสวนอาชญากรรมทางเทคโนโลยี",
+    "groupLink": "https://rblx.social/34708426",
+    "serverLink": "https://discord.gg/hvgnuXqsWz",
+    "duty": "ปราบปรามอาชญากรรมออนไลน์",
+    "founded": "๓๐ กรกฎาคม ๒๕๖๗"
+  },
+  {
+    "id": "tph",
+    "badge": "บช.ทท.",
+    "name": "กองบัญชาการตำรวจท่องเที่ยว",
+    "groupLink": "https://rblx.social/34732163",
+    "serverLink": "ไม่ทราบ",
+    "duty": "ให้คำแนะนำในการท่องเที่ยว",
+    "founded": "๔ สิงหาคม ๒๕๖๗"
   }
 ]

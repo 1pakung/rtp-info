@@ -126,7 +126,7 @@
     "founded": "๒๑ กรกฎาคม ๒๕๖๗"
   },
   {
-    "id": "psod",
+    "id": "pasod",
     "badge": "บก.สปพ.",
     "name": "กองบังคับการสายตรวจ",
     "groupLink": "https://rblx.social/34656828",
@@ -157,8 +157,62 @@
     "badge": "บช.ทท.",
     "name": "กองบัญชาการตำรวจท่องเที่ยว",
     "groupLink": "https://rblx.social/34732163",
-    "serverLink": "ไม่ทราบ",
+    "serverLink": "https://discord.gg/rfmxFmDQy",
     "duty": "ให้คำแนะนำในการท่องเที่ยว",
     "founded": "๔ สิงหาคม ๒๕๖๗"
+  },
+  {
+    "id": "iapo",
+    "badge": "สตส.ตร.",
+    "name": "สำนักงานตรวจสอบภายใน",
+    "groupLink": "https://rblx.social/34732209",
+    "serverLink": "https://discord.gg/DJY5ZCbDaU",
+    "duty": "ประเมินการทำงานของหน่วยงาน",
+    "founded": "๔ สิงหาคม ๒๕๖๗"
+  },
+  {
+    "id": "bpph",
+    "badge": "บช.ตชด.",
+    "name": "กองบัญชาการตำรวจตระเวนชายแดน",
+    "groupLink": "https://rblx.social/34767268",
+    "serverLink": "https://discord.gg/rgHhcJjKVZ",
+    "duty": "การลาดตระเวน",
+    "founded": "๑๐ สิงหาคม ๒๕๖๗"
+  },
+  {
+    "id": "cib",
+    "badge": "บช.ก.",
+    "name": "กองบัญชาการตำรวจสอบสวนกลาง",
+    "groupLink": "https://rblx.social/34789513",
+    "serverLink": "https://discord.gg/rtp-1pakung",
+    "duty": "สืบสวนสอบสวนคดีสำคัญ",
+    "founded": "๑๔ สิงหาคม ๒๕๖๗"
+  },
+  {
+    "id": "dp",
+    "badge": "กวิน.",
+    "name": "กองวินัย",
+    "groupLink": "https://rblx.social/34789859",
+    "serverLink": "https://discord.gg/gmkQJ7jy2q",
+    "duty": "ควบคุมความเรียบร้อยของตำรวจ และตรวจสอบระเบียบ",
+    "founded": "๑๔ สิงหาคม ๒๕๖๗"
+  },
+  {
+    "id": "paccd",
+    "badge": "บก.อคฝ.",
+    "name": "กองบังคับการอารักขาและควบคุมฝูงชน",
+    "groupLink": "https://rblx.social/34840505",
+    "serverLink": "https://discord.gg/rtp-1pakung",
+    "duty": "อารักขาบุคคลสำคัญและสถานที่สำคัญ",
+    "founded": "๒๔ สิงหาคม ๒๕๖๗"
+  },
+  {
+    "id": "dosi",
+    "badge": "ดี.เอส.ไอ.",
+    "name": "กรมสอบสวนคดีพิเศษ",
+    "groupLink": "https://rblx.social/34886408",
+    "serverLink": "https://discord.gg/rtp-1pakung",
+    "duty": "สืบสวนสอบสวนคดีพิเศษ",
+    "founded": "๑ กันยายน ๒๕๖๗"
   }
 ]

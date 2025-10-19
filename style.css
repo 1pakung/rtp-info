@@ -31,7 +31,7 @@
 .view-btn:hover { background: #1e40af; }
 
 .menu-btn.active {
-  background-color: #909c9c;
+  background-color: #e2e8f0;
   font-weight: 600;
   border-radius: 8px;
 }

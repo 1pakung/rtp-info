@@ -214,5 +214,113 @@
     "serverLink": "https://discord.gg/rtp-1pakung",
     "duty": "สืบสวนสอบสวนคดีพิเศษ",
     "founded": "๑ กันยายน ๒๕๖๗"
-  }
+  },
+  {
+    "id": "ib",
+    "badge": "บก.ตม.",
+    "name": "กองบังคับการตรวจคนเข้าเมือง",
+    "groupLink": "https://rblx.social/34908716",
+    "serverLink": "https://discord.gg/WdQ2Yy3PWM",
+    "duty": "ตรวจคนเข้า",
+    "founded": "๖ กันยายน ๒๕๖๗"
+  },
+  {
+    "id": "nraecsd",
+    "badge": "บก.ปทส.",
+    "name": "กองบังคับการปราบปรามการกระทำความผิดเกี่ยวกับทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+    "groupLink": "https://rblx.social/34952530",
+    "serverLink": "https://discord.gg/JqrkJuHfXH",
+    "duty": "ปราบปรามการกระทำผิดเกี่ยวกับป่าไม้, คุ้มครองสัตว์ป่าและพันธุ์พืช",
+    "founded": "๑๕ กันยายน ๒๕๖๗"
+  },
+  {
+    "id": "pc",
+    "badge": "ศยธ.",
+    "name": "ศาลยุติธรรม",
+    "groupLink": "https://rblx.social/34995590",
+    "serverLink": "https://discord.gg/nnV8sRJs6F",
+    "duty": "พิจารณาคดี/ตัดสินโทษ ตำรวจชั้นสัญญาบัตร ราชวงศ์",
+    "founded": "๒๖ กันยายน ๒๕๖๗"
+  },
+  {
+    "id": "acd",
+    "badge": "บก.ปปป.",
+    "name": "กองบังคับการปราบปรามการทุจริต",
+    "groupLink": "https://rblx.social/35216744",
+    "serverLink": "https://discord.gg/KXeUFZzZmp",
+    "duty": "ปราบปรามการโกง",
+    "founded": "๑๗ พฤศจิกายน ๒๕๖๗"
+  },
+  {
+    "id": "pfs",
+    "badge": "สพฐ.ตร.",
+    "name": "สำนักงานพิสูจน์หลักฐานตำรวจ",
+    "groupLink": "https://rblx.social/35319402",
+    "serverLink": "https://discord.gg/s8a4QTzGEv",
+    "duty": "ตรวจสอบหลักฐาน",
+    "founded": "๑๔ ธันวาคม ๒๕๖๗"
+  },
+  {
+    "id": "pd",
+    "badge": "สกพ.ตร.",
+    "name": "สำนักงานกำลังพล",
+    "groupLink": "https://rblx.social/35501051",
+    "serverLink": "https://discord.gg/DzZYrjwfXq",
+    "duty": "ดูแลข้าราชการตำรวจทุกคน",
+    "founded": "๑๗ มกราคม ๒๕๖๘"
+  },
+  {
+    "id": "pid",
+    "badge": "กส.ตร.",
+    "name": "กองสารนิเทศ",
+    "groupLink": "https://rblx.social/35536901",
+    "serverLink": "https://discord.gg/rtp-1pakung",
+    "duty": "ประกาศข่าวสาร, ผลิตสื่อ วิดีโอ โปสเตอร์",
+    "founded": "๒๕ มกราคม ๒๕๖๘"
+  },
+  {
+    "id": "botb",
+    "badge": "สงป.ตร.",
+    "name": "สำนักงานงบประมาณและการเงิน",
+    "groupLink": "https://rblx.social/35546546",
+    "serverLink": "https://discord.gg/rtp-1pakung",
+    "duty": "บริหารการเงิน",
+    "founded": "๒๖ มกราคม ๒๕๖๘"
+  },
+  {
+    "id": "pad",
+    "badge": "บก.บิน.",
+    "name": "กองบินตำรวจ",
+    "groupLink": "https://rblx.social/34636249",
+    "serverLink": "https://discord.gg/BZeMjcHrZ8",
+    "duty": "ลาดตระเวนทางอากาศ",
+    "founded": "๑๘ กุมภาพันธ์ ๒๕๖๘"
+  },
+  {
+    "id": "atpd",
+    "badge": "บก.ปคม.",
+    "name": "กองบังคับการปราบปรามการค้ามนุษย์",
+    "groupLink": "https://rblx.social/217404495",
+    "serverLink": "https://discord.gg/nBPZJunZwR",
+    "duty": "ปราบปรามการค้ามนุษย์",
+    "founded": "๒๖ กรกฎาคม ๒๕๖๘"
+  },
+  {
+    "id": "sbb",
+    "badge": "บช.ส.",
+    "name": "กองบัญชาการตำรวจสันติบาล",
+    "groupLink": "https://rblx.social/34702595",
+    "serverLink": "https://discord.gg/ec83cTX4ny",
+    "duty": "รักษาความมั่นคง, ปกป้องบุคคลสำคัญ",
+    "founded": "๒๙ กรกฎาคม ๒๕๖๘"
+  },
+  {
+    "id": "mp",
+    "badge": "บก.ตร.น.",
+    "name": "กองบังคับการตำรวจน้ำ",
+    "groupLink": "https://rblx.social/34874052",
+    "serverLink": "https://discord.gg/N3gyzeTE7W",
+    "duty": "รักษาแม่น้ำ, ช่วยเหลือผู้ประสบภัยทางนํ้า",
+    "founded": "๓๐ สิงหาคม ๒๕๖๘"
+  },
 ]

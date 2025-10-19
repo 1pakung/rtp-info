@@ -11,7 +11,7 @@
   {
     "id": "rpg",
     "badge": "บช.รอ.",
-    "name": "ตำรวจราชองครักษ์",
+    "name": "กองบัญชาการตำรวจราชองครักษ์",
     "groupLink": "https://rblx.social/34410609",
     "serverLink": "https://discord.gg/XJHJ8tFg6w",
     "duty": "ดูแลใกล้ชิดพระมหากษัตริย์ พระบรมราชินี พระราชวงศ์",
@@ -70,5 +70,41 @@
     "serverLink": "https://discord.gg/qCwM6fW2Cq",
     "duty": "สอบสวนการกระทำผิดของนายตำรวจชั้นประทวน",
     "founded": "๑๕ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "rpca",
+    "badge": "รร.นรต.",
+    "name": "โรงเรียนนายร้อยตำรวจ",
+    "groupLink": "https://rblx.social/34459869",
+    "serverLink": "https://discord.gg/9VPptBb8aa",
+    "duty": "ให้การศึกษา อบรม และฝึกฝน นักเรียนนายร้อย",
+    "founded": "๑๕ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "doc",
+    "badge": "รท.",
+    "name": "กรมราชทัณฑ์",
+    "groupLink": "https://rblx.social/34522127",
+    "serverLink": "https://discord.gg/tpWgfxDrs4",
+    "duty": "ฟื้นฟูและแก้ไขพฤติกรรมผู้ต้องขัง",
+    "founded": "๒๘ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "pgh",
+    "badge": "รพ.ตร.",
+    "name": "โรงพยาบาลตำรวจ",
+    "groupLink": "https://rblx.social/34537842",
+    "serverLink": "https://discord.gg/2n6n4udunf",
+    "duty": "ดูแลสุขภาพ และการบาดเจ็บจากการปฏิบัติหน้าที่",
+    "founded": "๓๐ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "sod",
+    "badge": "นปพ.",
+    "name": "หน่วยปฏิบัติการพิเศษ",
+    "groupLink": "https://rblx.social/34617516",
+    "serverLink": "https://discord.gg/Ub9F7nrTpA",
+    "duty": "ปราบปรามอาชญากรรม",
+    "founded": "๑๔ กรกฎาคม ๒๕๖๗"
   }
 ]

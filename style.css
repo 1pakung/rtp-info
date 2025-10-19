@@ -30,7 +30,6 @@
 }
 .view-btn:hover { background: #1e40af; }
 
-/* ปุ่มเมนูเมื่อเลือก */
 .menu-btn.active {
   background-color: #e2e8f0;
   font-weight: 600;

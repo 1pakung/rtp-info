@@ -43,5 +43,32 @@
     "serverLink": "https://discord.gg/T7S9H8c6Gc",
     "duty": "ปราบปรามการก่อการร้าย",
     "founded": "๑๑ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "idmb",
+    "badge": "บก.สส.น.",
+    "name": "สืบนครบาล",
+    "groupLink": "https://rblx.social/34446011",
+    "serverLink": "https://discord.gg/UTachjfhug",
+    "duty": "สืบสวนสอบสวนคดีสำคัญ",
+    "founded": "๑๓ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "ssd",
+    "badge": "บก.ปพ.",
+    "name": "กองบังคับการปฏิบัติการพิเศษ (คอมมานโด)",
+    "groupLink": "https://rblx.social/34455909",
+    "serverLink": "https://discord.gg/3UVx5j8p24",
+    "duty": "ปราบปรามอาชญากรรม",
+    "founded": "๑๕ มิถุนายน ๒๕๖๗"
+  },
+  {
+    "id": "ootig",
+    "badge": "สจต.",
+    "name": "สำนักงานจเรตำรวจ",
+    "groupLink": "https://rblx.social/34459748",
+    "serverLink": "https://discord.gg/qCwM6fW2Cq",
+    "duty": "สอบสวนการกระทำผิดของนายตำรวจชั้นประทวน",
+    "founded": "๑๕ มิถุนายน ๒๕๖๗"
   }
 ]

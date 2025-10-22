@@ -10,7 +10,7 @@
   },
   {
     "id": "rpg",
-    "badge": "บช.รอ.",
+    "badge": "บช.ตรอ.",
     "name": "กองบัญชาการตำรวจราชองครักษ์",
     "groupLink": "https://rblx.social/34410609",
     "serverLink": "https://discord.gg/XJHJ8tFg6w",
@@ -19,7 +19,7 @@
   },
   {
     "id": "csd",
-    "badge": "บก.ป.",
+    "badge": "บก.กปป.",
     "name": "กองบังคับการปราบปราม",
     "groupLink": "https://rblx.social/34420714",
     "serverLink": "https://discord.gg/jnJEz73dWu",
@@ -29,7 +29,7 @@
   {
     "id": "ns261",
     "badge": "นร.๒๖๑",
-    "name": "หน่วยปฏิบัติการพิเศษนเรศวร ๒๖๑",
+    "name": "นเรศวร ๒๖๑",
     "groupLink": "https://rblx.social/34430872",
     "serverLink": "https://discord.gg/6caaBE2cgD",
     "duty": "ปกป้องเอกราชและความมั่นคงของชาติ",
@@ -37,7 +37,7 @@
   },
   {
     "id": "art26",
-    "badge": "อร.๒๖",
+    "badge": "อ.๒๖",
     "name": "อรินทราช ๒๖",
     "groupLink": "https://rblx.social/34437515",
     "serverLink": "https://discord.gg/T7S9H8c6Gc",
@@ -46,10 +46,10 @@
   },
   {
     "id": "idmb",
-    "badge": "บก.สส.น.",
+    "badge": "บก.สนบ.",
     "name": "สืบนครบาล",
     "groupLink": "https://rblx.social/34446011",
-    "serverLink": "https://discord.gg/UTachjfhug",
+    "serverLink": "https://discord.gg/sThDYsEppF",
     "duty": "สืบสวนสอบสวนคดีสำคัญ",
     "founded": "๑๓ มิถุนายน ๒๕๖๗"
   },
@@ -190,7 +190,7 @@
   },
   {
     "id": "dp",
-    "badge": "กวิน.",
+    "badge": "ก.วิ.น.",
     "name": "กองวินัย",
     "groupLink": "https://rblx.social/34789859",
     "serverLink": "https://discord.gg/gmkQJ7jy2q",
@@ -316,7 +316,7 @@
   },
   {
     "id": "mp",
-    "badge": "บก.ตร.น.",
+    "badge": "บก.ตรน.",
     "name": "กองบังคับการตำรวจน้ำ",
     "groupLink": "https://rblx.social/34874052",
     "serverLink": "https://discord.gg/N3gyzeTE7W",

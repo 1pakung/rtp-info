@@ -10,8 +10,8 @@
   },
   {
     "id": "rpg",
-    "badge": "บช.ตรอ.",
-    "name": "กองบัญชาการตำรวจราชองครักษ์",
+    "badge": "ตรอ.",
+    "name": "ตำรวจราชองครักษ์",
     "groupLink": "https://rblx.social/34410609",
     "serverLink": "https://discord.gg/XJHJ8tFg6w",
     "duty": "ดูแลใกล้ชิดพระมหากษัตริย์ พระบรมราชินี พระราชวงศ์",
@@ -46,8 +46,8 @@
   },
   {
     "id": "idmb",
-    "badge": "บก.สนบ.",
-    "name": "สืบนครบาล",
+    "badge": "บก.สส.",
+    "name": "กองบังคับการสืบสวนสอบสวน",
     "groupLink": "https://rblx.social/34446011",
     "serverLink": "https://discord.gg/sThDYsEppF",
     "duty": "ตามจับผู้กระทำผิด",
@@ -136,8 +136,8 @@
   },
   {
     "id": "nsb",
-    "badge": "บช.ปส.",
-    "name": "กองปราบปรามยาเสพติด",
+    "badge": "บก.ปส.",
+    "name": "กองบังคับการปราบปรามยาเสพติด",
     "groupLink": "https://rblx.social/34680140",
     "serverLink": "https://discord.gg/reS7kRZUVR",
     "duty": "ปราบปรามการเสพติด เพื่อความสงบสุขของประชาชน",
@@ -247,14 +247,14 @@
     "badge": "บก.ปปป.",
     "name": "กองบังคับการปราบปรามการทุจริต",
     "groupLink": "https://rblx.social/35216744",
-    "serverLink": "https://discord.gg/KXeUFZzZmp",
+    "serverLink": "https://discord.gg/rtp-1pakung",
     "duty": "ปราบปรามการโกง",
     "founded": "๑๗ พฤศจิกายน ๒๕๖๗"
   },
   {
     "id": "pfs",
-    "badge": "สพฐ.ตร.",
-    "name": "สำนักงานพิสูจน์หลักฐานตำรวจ",
+    "badge": "พฐ.ตร.",
+    "name": "พิสูจน์หลักฐานตำรวจ",
     "groupLink": "https://rblx.social/35319402",
     "serverLink": "https://discord.gg/nAPwdpQ9Tu",
     "duty": "ตรวจสอบหลักฐาน",
@@ -275,7 +275,7 @@
     "name": "กองสารนิเทศ",
     "groupLink": "https://rblx.social/35536901",
     "serverLink": "https://discord.gg/rtp-1pakung",
-    "duty": "ประกาศข่าวสาร, ผลิตสื่อ วิดีโอ โปสเตอร์",
+    "duty": "ประกาศข่าวสาร, ผลิตสื่อ",
     "founded": "๒๕ มกราคม ๒๕๖๘"
   },
   {
@@ -289,7 +289,7 @@
   },
   {
     "id": "pad",
-    "badge": "บก.บิน.",
+    "badge": "บ.ตร.",
     "name": "กองบินตำรวจ",
     "groupLink": "https://rblx.social/34636249",
     "serverLink": "https://discord.gg/BZeMjcHrZ8",

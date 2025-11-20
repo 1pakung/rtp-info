@@ -1,7 +1,7 @@
 [
   {
     "id": "peb",
-    "badge": "บช.ศ.",
+    "badge": "PEB",
     "name": "กองบัญชาการศึกษา",
     "groupLink": "https://rblx.social/34342838",
     "serverLink": "https://discord.gg/GzhNr7ndks",
@@ -10,7 +10,7 @@
   },
   {
     "id": "rpg",
-    "badge": "ตรอ.",
+    "badge": "RPG",
     "name": "ตำรวจราชองครักษ์",
     "groupLink": "https://rblx.social/34410609",
     "serverLink": "https://discord.gg/nkeNjVz7Py",
@@ -19,16 +19,16 @@
   },
   {
     "id": "csd",
-    "badge": "บก.กปป.",
-    "name": "กองบังคับการปราบปราม",
+    "badge": "CSD",
+    "name": "กองปราบปราม",
     "groupLink": "https://rblx.social/34420714",
     "serverLink": "https://discord.gg/rhEpFaEeTV",
     "duty": "ปราบปรามอาชญากรรม",
     "founded": "๖ มิถุนายน ๒๕๖๗"
   },
   {
-    "id": "ns261",
-    "badge": "นร.๒๖๑",
+    "id": "nsou261",
+    "badge": "N261",
     "name": "นเรศวร ๒๖๑",
     "groupLink": "https://rblx.social/34430872",
     "serverLink": "https://discord.gg/6caaBE2cgD",
@@ -37,7 +37,7 @@
   },
   {
     "id": "art26",
-    "badge": "อ.๒๖",
+    "badge": "A26",
     "name": "อรินทราช ๒๖",
     "groupLink": "https://rblx.social/34437515",
     "serverLink": "https://discord.gg/A9VzTKH2ve",
@@ -46,16 +46,16 @@
   },
   {
     "id": "idmb",
-    "badge": "บก.สส.",
-    "name": "กองบังคับการสืบสวนสอบสวน",
+    "badge": "IDMB",
+    "name": "สืบนครบาล",
     "groupLink": "https://rblx.social/34446011",
     "serverLink": "https://discord.gg/sThDYsEppF",
-    "duty": "ตามจับผู้กระทำผิด",
+    "duty": "ตามล่าผู้กระทำผิด",
     "founded": "๑๓ มิถุนายน ๒๕๖๗"
   },
   {
     "id": "ssd",
-    "badge": "บก.ปพ.",
+    "badge": "SSD",
     "name": "กองบังคับการปฏิบัติการพิเศษ",
     "groupLink": "https://rblx.social/34455909",
     "serverLink": "https://discord.gg/N2j322JhmA",
@@ -64,7 +64,7 @@
   },
   {
     "id": "ootig",
-    "badge": "สจต.",
+    "badge": "OOTIG",
     "name": "สำนักงานจเรตำรวจ",
     "groupLink": "https://rblx.social/34459748",
     "serverLink": "https://discord.gg/qCwM6fW2Cq",
@@ -73,7 +73,7 @@
   },
   {
     "id": "rpca",
-    "badge": "รร.นรต.",
+    "badge": "RPCA",
     "name": "โรงเรียนนายร้อยตำรวจ",
     "groupLink": "https://rblx.social/34459869",
     "serverLink": "https://discord.gg/9VPptBb8aa",
@@ -82,7 +82,7 @@
   },
   {
     "id": "doc",
-    "badge": "รท.",
+    "badge": "DOC",
     "name": "กรมราชทัณฑ์",
     "groupLink": "https://rblx.social/34522127",
     "serverLink": "https://discord.gg/tpWgfxDrs4",
@@ -91,7 +91,7 @@
   },
   {
     "id": "pgh",
-    "badge": "รพ.ตร.",
+    "badge": "PGH",
     "name": "โรงพยาบาลตำรวจ",
     "groupLink": "https://rblx.social/34537842",
     "serverLink": "https://discord.gg/ZgupQtQsdd",
@@ -100,7 +100,7 @@
   },
   {
     "id": "sod",
-    "badge": "นปพ.",
+    "badge": "SOD",
     "name": "หน่วยปฏิบัติการพิเศษ",
     "groupLink": "https://rblx.social/34617516",
     "serverLink": "https://discord.gg/Ub9F7nrTpA",
@@ -109,8 +109,8 @@
   },
   {
     "id": "han",
-    "badge": "หนุมาน",
-    "name": "หน่วยปฏิบัติการพิเศษหนุมาน",
+    "badge": "H",
+    "name": "หน่วยหนุมาน",
     "groupLink": "https://rblx.social/34619336",
     "serverLink": "https://discord.gg/2rjN399CGv",
     "duty": "ปราบปรามอาชญากรรม",
@@ -118,8 +118,8 @@
   },
   {
     "id": "tfd",
-    "badge": "บก.จร.",
-    "name": "กองบังคับการตำรวจจราจร",
+    "badge": "TFD",
+    "name": "ตำรวจจราจร",
     "groupLink": "https://rblx.social/34656687",
     "serverLink": "https://discord.gg/QaD2uBFxMZ",
     "duty": "ดูแลความปลอดภัยบนถนน",
@@ -127,8 +127,8 @@
   },
   {
     "id": "pasod",
-    "badge": "บก.สปพ.",
-    "name": "กองบังคับการสายตรวจ",
+    "badge": "PASOD",
+    "name": "ตำรวจสายตรวจ",
     "groupLink": "https://rblx.social/34656828",
     "serverLink": "https://discord.gg/3UxfwBkAjw",
     "duty": "ออกตรวจตามพื้นที่",
@@ -136,8 +136,8 @@
   },
   {
     "id": "nsb",
-    "badge": "บก.ปส.",
-    "name": "กองบังคับการปราบปรามยาเสพติด",
+    "badge": "NSB",
+    "name": "ตำรวจปราบปรามยาเสพติด",
     "groupLink": "https://rblx.social/34680140",
     "serverLink": "https://discord.gg/reS7kRZUVR",
     "duty": "ปราบปรามการเสพติด เพื่อความสงบสุขของประชาชน",
@@ -145,8 +145,8 @@
   },
   {
     "id": "ccib",
-    "badge": "บช.สอท.",
-    "name": "กองบัญชาการตำรวจสืบสวนสอบสวนอาชญากรรมทางเทคโนโลยี",
+    "badge": "CCIB",
+    "name": "ตำรวจไซเบอร์",
     "groupLink": "https://rblx.social/34708426",
     "serverLink": "https://discord.gg/hvgnuXqsWz",
     "duty": "ปราบปรามอาชญากรรมออนไลน์",
@@ -154,8 +154,8 @@
   },
   {
     "id": "tph",
-    "badge": "บช.ทท.",
-    "name": "กองบัญชาการตำรวจท่องเที่ยว",
+    "badge": "TPH",
+    "name": "ตำรวจท่องเที่ยว",
     "groupLink": "https://rblx.social/34732163",
     "serverLink": "https://discord.gg/rfmxFmDQy",
     "duty": "ให้คำแนะนำในการท่องเที่ยว",
@@ -163,7 +163,7 @@
   },
   {
     "id": "iapo",
-    "badge": "สตส.ตร.",
+    "badge": "IAPO",
     "name": "สำนักงานตรวจสอบภายใน",
     "groupLink": "https://rblx.social/34732209",
     "serverLink": "https://discord.gg/DJY5ZCbDaU",
@@ -172,8 +172,8 @@
   },
   {
     "id": "bpph",
-    "badge": "บช.ตชด.",
-    "name": "กองบัญชาการตำรวจตระเวนชายแดน",
+    "badge": "BPPH",
+    "name": "ตำรวจตระเวนชายแดน",
     "groupLink": "https://rblx.social/34767268",
     "serverLink": "https://discord.gg/hWRnUKEGUA",
     "duty": "การลาดตระเวน",
@@ -181,16 +181,16 @@
   },
   {
     "id": "cib",
-    "badge": "บช.ก.",
-    "name": "กองบัญชาการตำรวจสอบสวนกลาง",
+    "badge": "CIB",
+    "name": "ตำรวจสอบสวนกลาง",
     "groupLink": "https://rblx.social/34789513",
-    "serverLink": "https://discord.gg/rtp-1pakung",
+    "serverLink": "https://discord.gg/88HDMRTcKJ",
     "duty": "สืบสวนสอบสวนคดีสำคัญ",
     "founded": "๑๔ สิงหาคม ๒๕๖๗"
   },
   {
     "id": "dp",
-    "badge": "กว.ตร.",
+    "badge": "DP",
     "name": "กองวินัยตำรวจ",
     "groupLink": "https://rblx.social/34789859",
     "serverLink": "https://discord.gg/gmkQJ7jy2q",
@@ -199,16 +199,16 @@
   },
   {
     "id": "paccd",
-    "badge": "บก.อคฝ.",
-    "name": "กองบังคับการอารักขาและควบคุมฝูงชน",
+    "badge": "PACCD",
+    "name": "กองควบคุมฝูงชน",
     "groupLink": "https://rblx.social/34840505",
-    "serverLink": "https://discord.gg/jJ7ZWfukw7",
+    "serverLink": "https://discord.gg/ckjxaRESQa",
     "duty": "อารักขาบุคคลสำคัญและสถานที่สำคัญ",
     "founded": "๒๔ สิงหาคม ๒๕๖๗"
   },
   {
     "id": "dosi",
-    "badge": "ดี.เอส.ไอ.",
+    "badge": "DOSI",
     "name": "กรมสอบสวนคดีพิเศษ",
     "groupLink": "https://rblx.social/34886408",
     "serverLink": "https://discord.gg/qZU59eM2q4",
@@ -217,8 +217,8 @@
   },
   {
     "id": "ib",
-    "badge": "บก.ตม.",
-    "name": "กองบังคับการตรวจคนเข้าเมือง",
+    "badge": "IB",
+    "name": "สำนักงานตรวจคนเข้าเมือง",
     "groupLink": "https://rblx.social/34908716",
     "serverLink": "https://discord.gg/WdQ2Yy3PWM",
     "duty": "ตรวจคนเข้า",
@@ -226,8 +226,8 @@
   },
   {
     "id": "nraecsd",
-    "badge": "บก.ปทส.",
-    "name": "กองบังคับการปราบปรามการกระทำความผิดเกี่ยวกับทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+    "badge": "NRAECSD",
+    "name": "ตำรวจป่าไม้",
     "groupLink": "https://rblx.social/34952530",
     "serverLink": "https://discord.gg/JqrkJuHfXH",
     "duty": "ปราบปรามการกระทำผิดเกี่ยวกับป่าไม้, คุ้มครองสัตว์ป่าและพันธุ์พืช",
@@ -235,7 +235,7 @@
   },
   {
     "id": "pc",
-    "badge": "ศยธ.",
+    "badge": "PC",
     "name": "ศาลยุติธรรม",
     "groupLink": "https://rblx.social/34995590",
     "serverLink": "https://discord.gg/nnV8sRJs6F",
@@ -244,7 +244,7 @@
   },
   {
     "id": "pfs",
-    "badge": "พฐ.ตร.",
+    "badge": "PFS",
     "name": "พิสูจน์หลักฐานตำรวจ",
     "groupLink": "https://rblx.social/35319402",
     "serverLink": "https://discord.gg/nAPwdpQ9Tu",
@@ -253,7 +253,7 @@
   },
   {
     "id": "pd",
-    "badge": "สกพ.ตร.",
+    "badge": "OOTP",
     "name": "สำนักงานกำลังพล",
     "groupLink": "https://rblx.social/35501051",
     "serverLink": "https://discord.gg/DzZYrjwfXq",
@@ -262,7 +262,7 @@
   },
   {
     "id": "pid",
-    "badge": "กส.ตร.",
+    "badge": "PAD",
     "name": "กองสารนิเทศ",
     "groupLink": "https://rblx.social/35536901",
     "serverLink": "https://discord.gg/YHTAPjugU3",
@@ -271,7 +271,7 @@
   },
   {
     "id": "botb",
-    "badge": "สงป.ตร.",
+    "badge": "BOTB",
     "name": "สำนักงานงบประมาณและการเงิน",
     "groupLink": "https://rblx.social/35546546",
     "serverLink": "https://discord.gg/adHa7rR3Ey",
@@ -280,7 +280,7 @@
   },
   {
     "id": "pad",
-    "badge": "บ.ตร.",
+    "badge": "PAD",
     "name": "กองบินตำรวจ",
     "groupLink": "https://rblx.social/34636249",
     "serverLink": "https://discord.gg/3zBtJRVDFj",
@@ -289,8 +289,8 @@
   },
   {
     "id": "sbb",
-    "badge": "บช.ส.",
-    "name": "กองบัญชาการตำรวจสันติบาล",
+    "badge": "SBB",
+    "name": "ตำรวจสันติบาล",
     "groupLink": "https://rblx.social/34702595",
     "serverLink": "https://discord.gg/ec83cTX4ny",
     "duty": "รักษาความมั่นคง, ปกป้องบุคคลสำคัญ",
@@ -298,8 +298,8 @@
   },
   {
     "id": "mp",
-    "badge": "บก.ตรน.",
-    "name": "กองบังคับการตำรวจน้ำ",
+    "badge": "MP",
+    "name": "ตำรวจน้ำ",
     "groupLink": "https://rblx.social/34874052",
     "serverLink": "https://discord.gg/N3gyzeTE7W",
     "duty": "รักษาแม่น้ำ, ช่วยเหลือผู้ประสบภัยทางนํ้า",
@@ -307,8 +307,8 @@
   },
   {
     "id": "mp2",
-    "badge": "กก.ตรม.",
-    "name": "กองกำกับการตำรวจม้า",
+    "badge": "MP",
+    "name": "ตำรวจม้า",
     "groupLink": "https://rblx.social/710174566",
     "serverLink": "https://discord.gg/mGmX4Sa6Cy",
     "duty": "รักษาความปลอดภัยบริเวณพระราชวัง",
@@ -316,8 +316,8 @@
   },
   {
     "id": "hpd",
-    "badge": "บก.ทล.",
-    "name": "กองบังคับการตำรวจทางหลวง",
+    "badge": "HPD",
+    "name": "ตำรวจทางหลวง",
     "groupLink": "https://rblx.social/34617423",
     "serverLink": "https://discord.gg/2dAPmweAC7",
     "duty": "การรักษาความปลอดภัยบนทางหลวงและการอำนวยความสะดวกให้ผู้ใช้ทางโดยรวมถึงการป้องกันและปราบปรามอาชญากรรม",

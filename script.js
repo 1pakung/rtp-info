@@ -443,11 +443,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
         {
       text: "✅ ระบบเว็บไซต์ 'ทำงานในรั้วตำรวจไทย' พร้อมใช้งานแล้ว!",
-      img: ""
+      img: "https://media.discordapp.net/attachments/1401474079776702551/1444765672512159904/jhgpojh_1.png?ex=692de662&is=692c94e2&hm=010be42eed603777a20e15ccf8f78889caab2471ba1b847d5b53b5ba5877f79d&=&format=webp&quality=lossless&width=1570&height=813"
     },
     {
       text: "🎖️ ขอบคุณผู้เล่นทุกท่านที่สนับสนุนเรานะครับ!",
-      img: ""
+      img: "https://media.discordapp.net/attachments/1401474079776702551/1444763787927228466/Screenshot_2025-12-01_015507.png?ex=692de4a1&is=692c9321&hm=d7846d38d4bedf69931158a25a4dddde9a0840a2ee586a37c2f06b3325b2a77f&=&format=webp&quality=lossless&width=1031&height=943"
     }
   ];
 
@@ -482,7 +482,7 @@ document.addEventListener('DOMContentLoaded', () => {
     autoSlide = setInterval(() => {
       currentIndex = (currentIndex + 1) % announcements.length;
       showAnnouncement(currentIndex);
-    }, 5000);
+    }, 9000);
   }
 
   function stopAutoSlide() {

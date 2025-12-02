@@ -315,15 +315,6 @@ const orgs = [
     pic: "https://tr.rbxcdn.com/180DAY-695f80d82a6af0aeab8b079f448bcae5/150/150/Image/Webp/noFilter"
   },
   {
-    id: "sbb",
-    name: "ตำรวจสันติบาล",
-    short: "รักษาความมั่นคง, ปกป้องบุคคลสำคัญ",
-    region: "https://discord.gg/ec83cTX4ny",
-    tel: "https://rblx.social/34702595",
-    founded: "๒๙ กรกฎาคม ๒๕๖๘",
-    pic: "https://tr.rbxcdn.com/180DAY-f7b1c2fcda6bfd0817f8d2416a732849/150/150/Image/Webp/noFilter"
-  },
-  {
     id: "mp",
     name: "ตำรวจน้ำ",
     short: "ดูแลแม่น้ำ",

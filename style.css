@@ -535,6 +535,6 @@ footer .btn-primary {
   .title { flex-direction:column; align-items:flex-start; }
   .logo-blob { max-width:100%; width:auto; height:50px; font-size:14px; }
   .card, .card1 { flex-direction:column; align-items:flex-start; }
-  .announcement-tab { padding:12px; }
+  .home { padding:12px; }
   .announcement { font-size:14px; }
 }

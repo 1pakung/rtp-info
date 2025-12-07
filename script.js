@@ -210,7 +210,7 @@ const orgs = [
     id: "bpph",
     name: "ตำรวจตระเวนชายแดน",
     short: "การลาดตระเวน",
-    region: "https://discord.gg/hWRnUKEGUA",
+    region: "https://discord.gg/rtp-1pakung",
     tel: "https://rblx.social/34767268",
     founded: "๑๐ สิงหาคม ๒๕๖๗",
     pic: "https://tr.rbxcdn.com/180DAY-e3f08df42bb68b0a8ea7e77478545708/150/150/Image/Webp/noFilter"
@@ -219,7 +219,7 @@ const orgs = [
     id: "cib",
     name: "ตำรวจสอบสวนกลาง",
     short: "สืบสวนสอบสวนคดีสำคัญ",
-    region: "https://discord.gg/88HDMRTcKJ",
+    region: "https://discord.gg/VgcGFGThxz",
     tel: "https://rblx.social/34789513",
     founded: "๑๔ สิงหาคม ๒๕๖๗",
     pic: "https://tr.rbxcdn.com/180DAY-dbe44cd59b2b141314e849288cdeb233/150/150/Image/Webp/noFilter"
@@ -327,7 +327,7 @@ const orgs = [
     id: "mp2",
     name: "ตำรวจม้า",
     short: "รักษาความปลอดภัยบริเวณพระราชวัง",
-    region: "https://discord.gg/mGmX4Sa6Cy",
+    region: "https://discord.gg/rtp-1pakung",
     tel: "https://rblx.social/710174566",
     founded: "๒๕ ตุลาคม ๒๕๖๘",
     pic: "https://tr.rbxcdn.com/180DAY-8f7b5c24c4e2197cd555da71df4c3ae7/150/150/Image/Webp/noFilter"

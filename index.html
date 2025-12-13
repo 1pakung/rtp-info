@@ -1,136 +1,124 @@
 <!DOCTYPE html>
 <html lang="th">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Working in Thai Police Fence</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ข้อมูล ทำงานในรั้วตำรวจไทย</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css"/>
 </head>
-<body>
+<body class="bg-slate-50 text-slate-800">
 
-<header>
-    <div class="navbar">
-        <div class="logo">
-            <img 
-                src="https://tr.rbxcdn.com/180DAY-ea51e153fe28dd79fc9911eb42a1d4a7/352/352/Image/Png/noFilter"
-                alt="logo"
-                style="width:60px; height:60px; border-radius:8px; margin-right:12px; object-fit:cover;"
-            >
+<header class="relative text-white overflow-hidden">
+  <div
+    class="absolute inset-0 bg-cover bg-center"
+    style="background-image: url('header-bg.png');">
+  </div>
 
-            <div style="display:flex; flex-direction:column; line-height:1;">
-                <span style="font-size:20px; font-weight:700; color:white;">
-                    Information Hub
-                </span>
+  <div class="absolute inset-0 bg-black/60"></div>
 
-                <span style="font-size:13px; color:rgba(255,255,255,0.85); margin-top:4px;">
-                    Working in Thai Police Fence (Roblox) - By 1Pakung
-                </span>
-            </div>
-        </div>
+  <div class="relative max-w-7xl mx-auto px-4 py-6 flex items-center gap-4">
+    <img
+      src="logo.png"
+      alt="โลโก้"
+      class="w-12 h-12 object-contain drop-shadow-lg"
+    />
 
-        <button class="menu-toggle" onclick="toggleMenu()">☰</button>
-
-        <nav>
-            <ul class="nav-links">
-                <li><a href="#announcement-tab">หน้าแรก</a></li>
-
-                <li>
-                    <a href="#about-section">เกี่ยวกับเรา</a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#about-section">ประวัติแมพ</a></li>
-                        <li><a href="#history">กฎหมาย</a></li>
-                    </ul>
-                </li>
-
-                <li><a href="#units-section">หน่วยงาน</a></li>
-            </ul>
-        </nav>
+    <div>
+      <h1 class="text-xl md:text-2xl font-semibold">
+        Information
+      </h1>
+      <p class="text-white/80 text-sm">
+        Working in Thai Police Fence (Roblox) - By 1Pakung
+      </p>
     </div>
+  </div>
 </header>
 
-<main>
+<main class="max-w-7xl mx-auto px-4 py-6 grid grid-cols-1 md:grid-cols-4 gap-6">
 
-<section id="announcement-tab" class="announcement-tab">
-    <div class="announcement-box-wide">
-        <h2 style="color: rgb(255, 255, 255);">📢 ประกาศข่าวสาร</h2>
-        <div class="announcement-container" id="announcementContainer"></div>
-        <div class="announcement-controls">
-            <button id="prevBtn" class="btn">⬇ ก่อนหน้า</button>
-            <button id="nextBtn" class="btn btn-primary">⬆ ถัดไป</button>
-        </div>
+  <aside class="md:col-span-1">
+    <div class="bg-white rounded-2xl shadow-sm border p-4 sticky top-6">
+      <nav class="flex flex-col space-y-2 text-slate-700">
+        <button class="menu-btn active px-3 py-2 rounded-lg text-left hover:bg-slate-100"
+          data-target="newsSection">📃 ข่าวสาร</button>
+
+        <button class="menu-btn px-3 py-2 rounded-lg text-left hover:bg-slate-100"
+          data-target="lawSection">⚖️ กฎหมาย</button>
+
+        <button class="menu-btn px-3 py-2 rounded-lg text-left hover:bg-slate-100"
+          data-target="agencySection">💼 หน่วยงาน</button>
+      </nav>
     </div>
-</section>
+  </aside>
 
-<section id="about-section">
-    <h2>เกี่ยวกับเรา</h2>
+  <section class="md:col-span-3">
 
-    <div id="history">
-        <h3>ประวัติแมพ</h3>
-        <div style="min-height: 200px; border: 1px dashed var(--accent-color); padding: 20px; margin: 20px auto; max-width: 900px; text-align: center;">
-            <p style="font-size: 1.2rem; margin-top: 50px;">
-                | Holder 1Pakung  
-                | CEO 3698x
-            </p>
-            <p>👮‍♂️ Working in Thai Police Fence  
-               Created 14/4/2566
-            </p>
-        </div>
-    </div>
+    <div id="newsSection" class="card section">
+      <h2 class="text-xl font-semibold mb-4 text-center">📣 ประกาศข่าวสาร</h2>
 
-    <div id="laws">
-        <h3>กฎหมาย</h3>
-        <div style="min-height: 150px; border: 1px dashed var(--accent-color); padding: 20px; margin: 20px auto; max-width: 900px; text-align: center;">
-            <p><a href="https://docs.google.com/document/d/1YTbDhevwW2plvSldzSFGKsmlvpj5Pcr1hZ9hK3UhYR8" target="_blank"><strong>กฎหมายอาญา</strong></a></p>
-            <p><a href="https://docs.google.com/document/d/1biX_tFzDAX7PsLJwE_KVHRSKgMNwJFhOjGtqPCaArvw" target="_blank"><strong>กฏหมายอำนาจหน้าที่</strong></a></p>
-            <p><a href="https://docs.google.com/document/d/1RSAb694cQvnk0opIAjBBd3YUGoFHYI9aEwsU-_z0CAs" target="_blank"><strong>กฏหมายศาลรัฐธรรมนูญ</strong></a></p>
-        </div>
-    </div>
-</section>
+      <div id="newsBox" class="news-box"></div>
 
-<section id="units-section">
-    <h2>หน่วยงาน</h2>
-
-    <div class="notice">
-        <h3>*เว็บไซต์นี้เป็นของแมพจำลองในรั้วตำรวจไทย*</h3>
+      <div class="news-controls">
+        <button id="prevNews" class="news-btn">⬅ ก่อนหน้า</button>
+        <button id="nextNews" class="news-btn primary">ถัดไป ➡</button>
+      </div>
     </div>
 
-    <div class="container">
-        <div class="topbar">
-            <div class="search-row">
-                <input id="q" type="text" placeholder="🔍 ค้นหาชื่อหน่วยงาน..." oninput="render()">
-                <button onclick="resetFilters()">ล้างการค้นหา</button>
+    <div id="lawSection" class="section hidden">
+      <h2 class="text-xl font-semibold mb-4">⚖️ กฎหมาย</h2>
+
+      <ul class="law-list">
+        <li>
+          <a href="https://docs.google.com/document/d/1YTbDhevwW2plvSldzSFGKsmlvpj5Pcr1hZ9hK3UhYR8"
+             target="_blank" class="law-card2">
+            <div>
+              <p class="law-title2">พระราชบัญญัติ ฉบับ พ.ศ.๒๕๖๗</p>
+              <span class="law-sub">คลิกเพื่อเปิดเอกสาร</span>
             </div>
-        </div>
+            <span class="law-arrow">↗</span>
+          </a>
+        </li>
 
-        <div class="container">
-            <main class="main">
-                <section id="listWrap">
-                    <div class="unit-card" id="grid"></div>
-                    <div id="empty" class="empty" style="display:none">ไม่พบหน่วยงานที่ค้นหา</div>
-                </section>
-            </main>
-        </div>
+        <li>
+          <a href="https://docs.google.com/document/d/1biX_tFzDAX7PsLJwE_KVHRSKgMNwJFhOjGtqPCaArvw"
+             target="_blank" class="law-card2">
+            <div>
+              <p class="law-title2">พระราชบัญญัติ ว่าด้วยอำนาจหน้าที่ของข้าราชการ</p>
+              <span class="law-sub">คลิกเพื่อเปิดเอกสาร</span>
+            </div>
+            <span class="law-arrow">↗</span>
+          </a>
+        </li>
+
+        <li>
+          <a href="https://docs.google.com/document/d/1RSAb694cQvnk0opIAjBBd3YUGoFHYI9aEwsU-_z0CAs"
+             target="_blank" class="law-card2">
+            <div>
+              <p class="law-title2">พระราชบัญญัติ ศาลรัฐธรรมนูญ</p>
+              <span class="law-sub">คลิกเพื่อเปิดเอกสาร</span>
+            </div>
+            <span class="law-arrow">↗</span>
+          </a>
+        </li>
+      </ul>
     </div>
-</section>
 
-<div id="detailModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeModal()">&times;</span>
-    <div id="detailBody"></div>
-  </div>
-</div>
+    <div id="agencySection" class="section hidden">
+      <input id="searchInput" class="input mb-6" placeholder="🔍 ค้นหาชื่อหน่วยงาน..." />
+      <div id="grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"></div>
+      <p id="emptyText" class="hidden text-center text-slate-500 mt-6">
+        ไม่พบข้อมูลที่ค้นหา
+      </p>
+    </div>
 
+  </section>
 </main>
 
-<footer>
-    <p>&copy; 2025 ทำงานในรั้วตำรวจไทย — สงวนลิขสิทธิ์</p>
-    <div style="margin-top: 20px;">
-        <a href="https://www.roblox.com/games/13123153058" target="_blank" class="btn">แมพ</a>
-        <a href="https://www.roblox.com/communities/32720464" target="_blank" class="btn">กลุ่ม</a>
-        <a href="https://discord.gg/rtp-1pakung" target="_blank" class="btn">ดิสคอร์ด</a>
-    </div>
+<footer class="text-center text-xs text-slate-500 py-8">
+  © <span id="year"></span> ทำงานในรั้วตำรวจไทย
 </footer>
 
-<script src="script.js"></script>
+<script src="app.js"></script>
 </body>
 </html>

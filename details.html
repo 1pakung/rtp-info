@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>รายละเอียดหน่วยงาน</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body class="bg-slate-50 text-slate-800">
+
+<a href="javascript:history.back()" class="back-btn">
+  <span class="back-icon">←</span>
+  ย้อนกลับ
+</a>
+
+<header class="text-white bg-cover bg-center"
+        style="background-image:url('header-bg.jpg')">
+  <div class="bg-black/50">
+    <div class="max-w-5xl mx-auto px-4 py-6">
+      <h1 class="text-xl font-semibold">รายละเอียดหน่วยงาน</h1>
+    </div>
+  </div>
+</header>
+
+<main class="max-w-5xl mx-auto px-4 py-6">
+  <div id="content" class="card"></div>
+</main>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const content = document.getElementById("content");
+  const id = new URLSearchParams(location.search).get("id");
+
+  if (!id) {
+    content.innerHTML = "ไม่พบรหัสหน่วยงาน";
+    return;
+  }
+
+  fetch("agencies.json")
+    .then(res => res.json())
+    .then(data => {
+      const agency = data.find(a => a.id === id);
+      if (!agency) {
+        content.innerHTML = "ไม่พบหน่วยงานนี้";
+        return;
+      }
+
+      content.innerHTML = `
+        <div class="flex items-center gap-5 mb-6">
+          <div class="w-20 h-20 rounded-xl bg-slate-100 border flex items-center justify-center overflow-hidden">
+            <img src="${agency.pic || 'logo.png'}"
+                 alt="${agency.name}"
+                 class="w-full h-full object-contain p-2">
+          </div>
+
+          <div>
+            <h2 class="text-2xl font-semibold">${agency.name}</h2>
+            <p class="text-slate-500 mt-1">${agency.duty || ""}</p>
+          </div>
+        </div>
+
+        <div class="space-y-3">
+          <p><b>📅 วันก่อตั้ง :</b> ${agency.founded || "-"}</p>
+
+          ${agency.groupLink ? `
+            <p><b>🔗 Roblox :</b>
+              <a href="${agency.groupLink}" target="_blank"
+                 class="text-indigo-600 hover:underline">
+                ${agency.groupLink}
+              </a>
+            </p>` : ""}
+
+          ${agency.serverLink ? `
+            <p><b>💬 Discord :</b>
+              <a href="${agency.serverLink}" target="_blank"
+                 class="text-indigo-600 hover:underline">
+                ${agency.serverLink}
+              </a>
+            </p>` : ""}
+        </div>
+      `;
+    })
+    .catch(() => {
+      content.innerHTML = "เกิดข้อผิดพลาดในการโหลดข้อมูล";
+    });
+});
+</script>
+
+</body>
+</html>

@@ -1,0 +1,308 @@
+[
+  {
+  "id": "peb",
+  "name": "กองบัญชาการศึกษา",
+  "serverLink": "https://discord.gg/GzhNr7ndks",
+  "groupLink": "https://rblx.social/34342838",
+  "duty": "ฝึกพลเรือนเข้ามาเป็นตำรวจใหม่",
+  "founded": "๒๒ พฤษภาคม ๒๕๖๗",
+  "pic": "https://tr.rbxcdn.com/180DAY-27ee36b38684c9ad0be96f06581861ae/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "rpg",
+    "name": "ตำรวจราชองครักษ์",
+    "duty": "ดูแลใกล้ชิดพระมหากษัตริย์ พระบรมราชินี พระราชวงศ์",
+    "serverLink": "https://discord.gg/nkeNjVz7Py",
+    "groupLink": "https://rblx.social/34410609",
+    "founded": "๖ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-e76c940686c216a7c5c5c1520e87ed3d/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "csd",
+    "name": "กองปราบปราม",
+    "duty": "ปราบปรามอาชญากรรม",
+    "serverLink": "https://discord.gg/rhEpFaEeTV",
+    "groupLink": "https://rblx.social/34420714",
+    "founded": "๖ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-9a448757ff1835983e2165c31102b20c/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "nsou261",
+    "name": "นเรศวร ๒๖๑",
+    "duty": "ปกป้องเอกราชและความมั่นคงของชาติ",
+    "serverLink": "https://discord.gg/6caaBE2cgD",
+    "groupLink": "https://rblx.social/34430872",
+    "founded": "๙ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-74b7d9734e727a255615164ba7f52add/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "art26",
+    "name": "อรินทราช ๒๖",
+    "duty": "ปราบปรามการก่อการร้าย",
+    "serverLink": "https://discord.gg/A9VzTKH2ve",
+    "groupLink": "https://rblx.social/34437515",
+    "founded": "๑๑ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-7fc1bad53403635118858384532608d9/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "idmb",
+    "name": "สืบนครบาล",
+    "duty": "ตามล่าผู้กระทำผิด",
+    "serverLink": "https://discord.gg/sThDYsEppF",
+    "groupLink": "https://rblx.social/34446011",
+    "founded": "๑๓ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-505d6eb960a5b81e42765d72cfee5c08/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "ssd",
+    "name": "คอมมานโด",
+    "duty": "ปราบปรามอาชญากรรม",
+    "serverLink": "https://discord.gg/N2j322JhmA",
+    "groupLink": "https://rblx.social/34455909",
+    "founded": "๑๕ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-40d5d455c0b6f818e435cada5968d7f4/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "ootig",
+    "name": "สำนักงานจเรตำรวจ",
+    "duty": "สอบสวนการกระทำผิดของนายตำรวจชั้นประทวน",
+    "serverLink": "https://discord.gg/qCwM6fW2Cq",
+    "groupLink": "https://rblx.social/34459748",
+    "founded": "๑๕ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-8070572fdd6c7427e63bd49cf80059ae/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "rpca",
+    "name": "โรงเรียนนายร้อยตำรวจ",
+    "duty": "ให้การศึกษา อบรม และฝึกฝน นักเรียนนายร้อยตำรวจ",
+    "serverLink": "https://discord.gg/9VPptBb8aa",
+    "groupLink": "https://rblx.social/34459869",
+    "founded": "๑๕ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-dd64d3f89ad1c55c81ac235dccbfe9b6/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "doc",
+    "name": "กรมราชทัณฑ์",
+    "duty": "ฟื้นฟูและแก้ไขพฤติกรรมผู้ต้องขัง",
+    "serverLink": "https://discord.gg/tpWgfxDrs4",
+    "groupLink": "https://rblx.social/34522127",
+    "founded": "๒๘ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-7b13edfe573857a3f7f73b7c24eb9d9e/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "pgh",
+    "name": "โรงพยาบาลตำรวจ",
+    "duty": "ดูแลสุขภาพ และการบาดเจ็บจากการปฏิบัติหน้าที่",
+    "serverLink": "https://discord.gg/ZgupQtQsdd",
+    "groupLink": "https://rblx.social/34537842",
+    "founded": "๓๐ มิถุนายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-2889932e0a4805b1d3964c5e49406902/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "sod",
+    "name": "หน่วยปฏิบัติการพิเศษ",
+    "duty": "ปราบปรามอาชญากรรม",
+    "serverLink": "https://discord.gg/qHBrted97f",
+    "groupLink": "https://rblx.social/34617516",
+    "founded": "๑๔ กรกฎาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-74bde388531f4bfd8f0867c62175a6fd/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "han",
+    "name": "หน่วยหนุมาน",
+    "duty": "ปราบปรามอาชญากรรม",
+    "serverLink": "https://discord.gg/2rjN399CGv",
+    "groupLink": "https://rblx.social/34619336",
+    "founded": "๑๕ กรกฎาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-915f3612c36addde84f35eb542e76a6b/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "tfd",
+    "name": "ตำรวจจราจร",
+    "duty": "ดูแลความปลอดภัยบนถนน",
+    "serverLink": "https://discord.gg/QaD2uBFxMZ",
+    "groupLink": "https://rblx.social/34656687",
+    "founded": "๒๑ กรกฎาคม ๒๕๖๗",
+    "pic": "//tr.rbxcdn.com/180DAY-cbe6f436f3903eae3b3ba6bcaa70c0b4/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "pasod",
+    "name": "ตำรวจสายตรวจ",
+    "duty": "ออกตรวจตามพื้นที่",
+    "serverLink": "https://discord.gg/3UxfwBkAjw",
+    "groupLink": "https://rblx.social/34656828",
+    "founded": "๒๑ กรกฎาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-e9726178c10447d34be22072c0d635e9/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "nsb",
+    "name": "ตำรวจปราบปรามยาเสพติด",
+    "duty": "ปราบปรามการเสพติด เพื่อความสงบสุขของประชาชน",
+    "serverLink": "https://discord.gg/reS7kRZUVR",
+    "groupLink": "https://rblx.social/34680140",
+    "founded": "๒๖ กรกฎาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-0462797a9b741e88ba82ab1862a8833e/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "ccib",
+    "name": "ตำรวจไซเบอร์",
+    "duty": "ปราบปรามอาชญากรรมออนไลน์",
+    "serverLink": "https://discord.gg/hvgnuXqsWz",
+    "groupLink": "https://rblx.social/34708426",
+    "founded": "๓๐ กรกฎาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-d186462f5fe7d347382589cbbe7a0bb2/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "tph",
+    "name": "ตำรวจท่องเที่ยว",
+    "duty": "ให้คำแนะนำในการท่องเที่ยว",
+    "serverLink": "https://discord.gg/rfmxFmDQy",
+    "groupLink": "https://rblx.social/34732163",
+    "founded": "๔ สิงหาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-abdde96268e02ed8d9f4579f4bce18e0/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "iapo",
+    "name": "สำนักงานตรวจสอบภายใน",
+    "duty": "ประเมินการทำงานของหน่วยงาน",
+    "serverLink": "https://discord.gg/DJY5ZCbDaU",
+    "groupLink": "https://rblx.social/34732209",
+    "founded": "๔ สิงหาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-731c6a27d540926b45dc69353b5076bb/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "bpph",
+    "name": "ตำรวจตระเวนชายแดน",
+    "duty": "การลาดตระเวน",
+    "serverLink": "https://discord.gg/rtp-1pakung",
+    "groupLink": "https://rblx.social/34767268",
+    "founded": "๑๐ สิงหาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-e3f08df42bb68b0a8ea7e77478545708/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "cib",
+    "name": "ตำรวจสอบสวนกลาง",
+    "duty": "สืบสวนสอบสวนคดีสำคัญ",
+    "serverLink": "https://discord.gg/VgcGFGThxz",
+    "groupLink": "https://rblx.social/34789513",
+    "founded": "๑๔ สิงหาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-dbe44cd59b2b141314e849288cdeb233/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "dp",
+    "name": "กองวินัยตำรวจ",
+    "duty": "ควบคุมความเรียบร้อยของตำรวจ",
+    "serverLink": "https://discord.gg/gmkQJ7jy2q",
+    "groupLink": "https://rblx.social/34789859",
+    "founded": "๑๔ สิงหาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-b4b1705de63c41b7b0798d0c012c23a2/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "paccd",
+    "name": "กองควบคุมฝูงชน",
+    "duty": "อารักขาบุคคลสำคัญและสถานที่สำคัญ",
+    "serverLink": "https://discord.gg/ckjxaRESQa",
+    "groupLink": "https://rblx.social/34840505",
+    "founded": "๒๔ สิงหาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-072f9545be10fe549b30dfae5b81dad9/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "dosi",
+    "name": "กรมสอบสวนคดีพิเศษ",
+    "duty": "สืบสวนสอบสวนคดีพิเศษ",
+    "serverLink": "https://discord.gg/qZU59eM2q4",
+    "groupLink": "https://rblx.social/34886408",
+    "founded": "๑ กันยายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-69f1f91fdff2684de33103c235bf130c/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "ib",
+    "name": "สำนักงานตรวจคนเข้าเมือง",
+    "duty": "ตรวจคนเข้าเมือง",
+    "serverLink": "https://discord.gg/WdQ2Yy3PWM",
+    "groupLink": "https://rblx.social/34908716",
+    "founded": "๖ กันยายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-4ae276b519eecece1c8f351341c77444/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "nraecsd",
+    "name": "ตำรวจป่าไม้",
+    "duty": "ปราบปรามการกระทำผิดเกี่ยวกับป่าไม้ คุ้มครองสัตว์ป่าและพันธุ์พืช",
+    "serverLink": "https://discord.gg/JqrkJuHfXH",
+    "groupLink": "https://rblx.social/34952530",
+    "founded": "๑๕ กันยายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-33a70fecd69826fdd7caca6d1a3219b3/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "pc",
+    "name": "ศาลยุติธรรม",
+    "duty": "พิจารณาคดีและตัดสินโทษ",
+    "serverLink": "https://discord.gg/nnV8sRJs6F",
+    "groupLink": "https://rblx.social/34995590",
+    "founded": "๒๖ กันยายน ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-5095120eb4ef4c9adcea4421f25624cf/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "pfs",
+    "name": "พิสูจน์หลักฐานตำรวจ",
+    "duty": "ตรวจสอบและวิเคราะห์หลักฐาน",
+    "serverLink": "https://discord.gg/nAPwdpQ9Tu",
+    "groupLink": "https://rblx.social/35319402",
+    "founded": "๑๔ ธันวาคม ๒๕๖๗",
+    "pic": "https://tr.rbxcdn.com/180DAY-f3c0cbc8a655d11c5417b70c4cd6a624/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "pid",
+    "name": "กองสารนิเทศ",
+    "duty": "ประกาศข่าวสารและผลิตสื่อ",
+    "serverLink": "https://discord.gg/YHTAPjugU3",
+    "groupLink": "https://rblx.social/35536901",
+    "founded": "๒๕ มกราคม ๒๕๖๘",
+    "pic": "https://tr.rbxcdn.com/180DAY-5d7e405d192cf5c4599721ee496d59c1/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "botb",
+    "name": "สำนักงานงบประมาณและการเงิน",
+    "duty": "บริหารและควบคุมงบประมาณการเงิน",
+    "serverLink": "https://discord.gg/adHa7rR3Ey",
+    "groupLink": "https://rblx.social/35546546",
+    "founded": "๒๖ มกราคม ๒๕๖๘",
+    "pic": "https://tr.rbxcdn.com/180DAY-f32a89cfb2412aecdb730f924d3a0ca4/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "pad",
+    "name": "กองบินตำรวจ",
+    "duty": "ลาดตระเวนและสนับสนุนทางอากาศ",
+    "serverLink": "https://discord.gg/8AabRwD76v",
+    "groupLink": "https://rblx.social/34636249",
+    "founded": "๑๘ กุมภาพันธ์ ๒๕๖๘",
+    "pic": "https://tr.rbxcdn.com/180DAY-695f80d82a6af0aeab8b079f448bcae5/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "mp",
+    "name": "ตำรวจน้ำ",
+    "duty": "ดูแลความปลอดภัยทางน้ำ",
+    "serverLink": "https://discord.gg/qw8wSwcnwS",
+    "groupLink": "https://rblx.social/34874052",
+    "founded": "๓๐ สิงหาคม ๒๕๖๘",
+    "pic": "https://tr.rbxcdn.com/180DAY-b1c212feafc1b7ddc6c78804daa705a6/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "mp2",
+    "name": "ตำรวจม้า",
+    "duty": "รักษาความปลอดภัยบริเวณพระราชวัง",
+    "serverLink": "https://discord.gg/rtp-1pakung",
+    "groupLink": "https://rblx.social/710174566",
+    "founded": "๒๕ ตุลาคม ๒๕๖๘",
+    "pic": "https://tr.rbxcdn.com/180DAY-8f7b5c24c4e2197cd555da71df4c3ae7/150/150/Image/Webp/noFilter"
+  },
+  {
+    "id": "hpd",
+    "name": "ตำรวจทางหลวง",
+    "duty": "รักษาความปลอดภัยและอำนวยความสะดวกบนทางหลวง",
+    "serverLink": "https://discord.gg/2dAPmweAC7",
+    "groupLink": "https://rblx.social/34617423",
+    "founded": "๑ พฤศจิกายน ๒๕๖๘",
+    "pic": "https://tr.rbxcdn.com/180DAY-724b86b257d97e5ecf8146ff33262326/150/150/Image/Webp/noFilter"
+  }
+]

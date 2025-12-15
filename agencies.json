@@ -83,7 +83,7 @@
   {
     "id": "doc",
     "name": "กรมราชทัณฑ์",
-    "duty": "ฟื้นฟูและแก้ไขพฤติกรรมผู้ต้องขัง",
+    "duty": "แก้ไขพฤติกรรมผู้ต้องขัง",
     "serverLink": "https://discord.gg/tpWgfxDrs4",
     "groupLink": "https://rblx.social/34522127",
     "founded": "๒๘ มิถุนายน ๒๕๖๗",
@@ -92,8 +92,8 @@
   {
     "id": "pgh",
     "name": "โรงพยาบาลตำรวจ",
-    "duty": "ดูแลสุขภาพ และการบาดเจ็บจากการปฏิบัติหน้าที่",
-    "serverLink": "https://discord.gg/ZgupQtQsdd",
+    "duty": "ดูแลสุขภาพและการบาดเจ็บระหว่างปฏิบัติหน้าที่",
+    "serverLink": "https://discord.gg/urfpHPuBYk",
     "groupLink": "https://rblx.social/34537842",
     "founded": "๓๐ มิถุนายน ๒๕๖๗",
     "pic": "https://tr.rbxcdn.com/180DAY-2889932e0a4805b1d3964c5e49406902/150/150/Image/Webp/noFilter"
@@ -137,7 +137,7 @@
   {
     "id": "nsb",
     "name": "ตำรวจปราบปรามยาเสพติด",
-    "duty": "ปราบปรามการเสพติด เพื่อความสงบสุขของประชาชน",
+    "duty": "ปราบปรามยาเสพติด",
     "serverLink": "https://discord.gg/reS7kRZUVR",
     "groupLink": "https://rblx.social/34680140",
     "founded": "๒๖ กรกฎาคม ๒๕๖๗",
@@ -164,7 +164,7 @@
   {
     "id": "iapo",
     "name": "สำนักงานตรวจสอบภายใน",
-    "duty": "ประเมินการทำงานของหน่วยงาน",
+    "duty": "ประเมินการทำงานหน่วยงาน",
     "serverLink": "https://discord.gg/DJY5ZCbDaU",
     "groupLink": "https://rblx.social/34732209",
     "founded": "๔ สิงหาคม ๒๕๖๗",

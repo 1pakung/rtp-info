@@ -5,7 +5,7 @@
   "serverLink": "https://discord.gg/322GeZjcCV",
   "duty": "สำนักงานตำรวจแห่งชาติ",
   "founded": "๑๔ เมษายน ๒๕๖๗",
-  "pic": "https://tr.rbxcdn.com/180DAY-80fc18c0ca81687c1ee16ecb63104106/150/150/Image/Webp/noFilter"
+  "pic": "https://cdn.discordapp.com/icons/1367143986887917608/1b7ecd499634ff0cd134fa5886ca6799.webp?size=80"
   },
   {
   "id": "brh",
@@ -29,7 +29,7 @@
   "name": "กองบัญชาการศึกษา",
   "serverLink": "https://discord.gg/GzhNr7ndks",
   "groupLink": "https://rblx.social/34342838",
-  "duty": "ฝึกพลเรือนเข้ามาเป็นตำรวจใหม่",
+  "duty": "ฝึกอบรม พัฒนาตำรวจ",
   "founded": "๒๒ พฤษภาคม ๒๕๖๗",
   "pic": "https://tr.rbxcdn.com/180DAY-27ee36b38684c9ad0be96f06581861ae/150/150/Image/Webp/noFilter"
   },
@@ -54,7 +54,7 @@
   {
     "id": "nsou261",
     "name": "นเรศวร ๒๖๑",
-    "duty": "ปกป้องเอกราชและความมั่นคงของชาติ",
+    "duty": "ปกป้องเอกราชและความมั่นคง",
     "serverLink": "https://discord.gg/6caaBE2cgD",
     "groupLink": "https://rblx.social/34430872",
     "founded": "๙ มิถุนายน ๒๕๖๗",
@@ -108,7 +108,7 @@
   {
     "id": "doc",
     "name": "กรมราชทัณฑ์",
-    "duty": "แก้ไขพฤติกรรมผู้ต้องขัง",
+    "duty": "แก้ไขพฤติกรรมนักโทษ",
     "serverLink": "https://discord.gg/tpWgfxDrs4",
     "groupLink": "https://rblx.social/34522127",
     "founded": "๒๘ มิถุนายน ๒๕๖๗",
@@ -117,7 +117,7 @@
   {
     "id": "pgh",
     "name": "โรงพยาบาลตำรวจ",
-    "duty": "ดูแลสุขภาพและการบาดเจ็บระหว่างปฏิบัติหน้าที่",
+    "duty": "ดูแลสุขภาพการบาดเจ็บระหว่างปฏิบัติหน้าที่",
     "serverLink": "https://discord.gg/urfpHPuBYk",
     "groupLink": "https://rblx.social/34537842",
     "founded": "๓๐ มิถุนายน ๒๕๖๗",
@@ -171,7 +171,7 @@
   {
     "id": "ccib",
     "name": "ตำรวจไซเบอร์",
-    "duty": "ปราบปรามอาชญากรรมออนไลน์",
+    "duty": "ปราบปรามอาชญากรรมในดิสคอร์ด",
     "serverLink": "https://discord.gg/hvgnuXqsWz",
     "groupLink": "https://rblx.social/34708426",
     "founded": "๓๐ กรกฎาคม ๒๕๖๗",
@@ -216,7 +216,7 @@
   {
     "id": "dp",
     "name": "กองวินัยตำรวจ",
-    "duty": "ควบคุมความเรียบร้อยของตำรวจ",
+    "duty": "ควบคุมความเรียบร้อยตำรวจ",
     "serverLink": "https://discord.gg/gmkQJ7jy2q",
     "groupLink": "https://rblx.social/34789859",
     "founded": "๑๔ สิงหาคม ๒๕๖๗",
@@ -225,7 +225,7 @@
   {
     "id": "paccd",
     "name": "กองควบคุมฝูงชน",
-    "duty": "อารักขาบุคคลสำคัญและสถานที่สำคัญ",
+    "duty": "อารักขาบุคคลสำคัญ",
     "serverLink": "https://discord.gg/ckjxaRESQa",
     "groupLink": "https://rblx.social/34840505",
     "founded": "๒๔ สิงหาคม ๒๕๖๗",
@@ -252,7 +252,7 @@
   {
     "id": "nraecsd",
     "name": "ตำรวจป่าไม้",
-    "duty": "ปราบปรามการกระทำผิดเกี่ยวกับป่าไม้ คุ้มครองสัตว์ป่าและพันธุ์พืช",
+    "duty": "ปราบปรามกระทำผิดเกี่ยวกับป่าไม้",
     "serverLink": "https://discord.gg/JqrkJuHfXH",
     "groupLink": "https://rblx.social/34952530",
     "founded": "๑๕ กันยายน ๒๕๖๗",
@@ -315,7 +315,7 @@
   {
     "id": "mp2",
     "name": "ตำรวจม้า",
-    "duty": "รักษาความปลอดภัยบริเวณพระราชวัง",
+    "duty": "ดูแลบริเวณพระราชวัง",
     "serverLink": "https://discord.gg/mGmX4Sa6Cy",
     "groupLink": "https://rblx.social/710174566",
     "founded": "๒๕ ตุลาคม ๒๕๖๘",
@@ -324,7 +324,7 @@
   {
     "id": "hpd",
     "name": "ตำรวจทางหลวง",
-    "duty": "รักษาความปลอดภัยและอำนวยความสะดวกบนทางหลวง",
+    "duty": "ดูแลความปลอดภัยบนทางหลวง",
     "serverLink": "https://discord.gg/rtp-1pakung",
     "groupLink": "https://rblx.social/34617423",
     "founded": "๑ พฤศจิกายน ๒๕๖๘",

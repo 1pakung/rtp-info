@@ -1,5 +1,30 @@
 [
   {
+  "id": "rtphq",
+  "name": "กองบัญชาการตำรวจแห่งชาติ",
+  "serverLink": "https://discord.gg/322GeZjcCV",
+  "duty": "สำนักงานตำรวจแห่งชาติ",
+  "founded": "๑๔ เมษายน ๒๕๖๗",
+  "pic": "https://tr.rbxcdn.com/180DAY-80fc18c0ca81687c1ee16ecb63104106/150/150/Image/Webp/noFilter"
+  },
+  {
+  "id": "brh",
+  "name": "สำนักพระราชวัง",
+  "serverLink": "https://discord.gg/ZVhTS8RENJ",
+  "duty": "สำนักพระราชวัง",
+  "founded": "๑๔ เมษายน ๒๕๖๗",
+  "pic": "https://cdn.discordapp.com/icons/1418143097694457892/03c51e25fe12b7b0e868f1bf9b69d342.webp?size=80"
+  },
+  {
+  "id": "ootpc",
+  "name": "สำนักองคมนตรี",
+  "serverLink": "https://discord.gg/cMJEJ5JEbr",
+  "groupLink": "https://rblx.social/34810540",
+  "duty": "สำนักองคมนตรี",
+  "founded": "๑๔ เมษายน ๒๕๖๗",
+  "pic": "https://tr.rbxcdn.com/180DAY-62aa78b27f38f2a71cd9414d4f7f1abd/150/150/Image/Webp/noFilter"
+  },
+  {
   "id": "peb",
   "name": "กองบัญชาการศึกษา",
   "serverLink": "https://discord.gg/GzhNr7ndks",
